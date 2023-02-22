@@ -11,8 +11,8 @@ Una Landing page muy colorida, la verdad que muy chula hecha con HTML, CSS y ES6
 ## Autor
 **Miguel Ledesma**
 
-✔️# [LinkedIn](https://www.linkedin.com/in/miguelledesmac) 
-✔️# [Portofolio](https://miguelledesmac.github.io/Portofolio-Oficial/)
+# [LinkedIn](https://www.linkedin.com/in/miguelledesmac) 
+# [Portofolio](https://miguelledesmac.github.io/Portofolio-Oficial/)
 
 
 ## Ver ejemplo en vivo
