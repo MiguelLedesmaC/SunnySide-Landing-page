@@ -4,7 +4,9 @@
 
 ## Descripcion
 
-loren ipu..s.df.
+Una Landing page muy colorida, la verdad que muy chula hecha con HTML, CSS y ES6. La cual es responsive utilizando flex y con un nav adaptado para mobile y otro para desktop.
+
+
 
 ## Autor
 **Miguel Ledesma**
